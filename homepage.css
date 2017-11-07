@@ -1,7 +1,12 @@
 body {
-background-color: lemonchiffon
+background-color: lemonchiffon;
 }
 
 header {
-font-family:Helvetica
+font-family:Helvetica;
+}
+
+div {
+ font-family:Helvetica;
+ color:darkgrey;
 }
