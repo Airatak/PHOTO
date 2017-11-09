@@ -6,8 +6,8 @@ header {
 font-family:Helvetica;
 }
 
-img>header {
- width: 30%;
+#ham {
+ width: 100px;
   float: left;
    
 }
