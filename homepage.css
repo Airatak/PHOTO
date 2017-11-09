@@ -12,7 +12,7 @@ font-family:Helvetica;
    
 }
 
-#verticalnavigation a {
+.verticalnavigation a {
  text-decoration: none;
  display: block;
 }
