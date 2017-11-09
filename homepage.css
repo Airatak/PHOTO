@@ -6,3 +6,9 @@ header {
 font-family:Helvetica;
 }
 
+img>header {
+ width: 30%;
+  float: left;
+   
+}
+
