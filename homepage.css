@@ -11,3 +11,8 @@ font-family:Helvetica;
   float: left;
    
 }
+
+#verticalnavigation a {
+ text-decoration: none;
+ display: block;
+}
