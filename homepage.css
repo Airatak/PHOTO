@@ -11,7 +11,7 @@ font-family:Helvetica;
   float: left;
  
 #Homepageimage {
- max-width: 100%; 
+ width: 480px; 
  }
    
 }
