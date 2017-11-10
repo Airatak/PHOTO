@@ -19,6 +19,7 @@ font-family:Helvetica;
  width:50px;
 }
 .verticalnavigation a {
+ font-family:Helvetica;
  text-decoration: none;
  display: block;
 }
