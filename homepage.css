@@ -9,6 +9,10 @@ font-family:Helvetica;
 #ham {
  width: 100px;
   float: left;
+ 
+#Homepageimage {
+ max-width: 100%; 
+ }
    
 }
 .verticalnavigation {
