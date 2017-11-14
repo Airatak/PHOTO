@@ -25,3 +25,8 @@ font-family:Helvetica;
  display: block;
  color: 8A0707;
 }
+
+#wrapper {width: 700px;
+ margin-left: auto;
+ margin-right: auto;
+}
